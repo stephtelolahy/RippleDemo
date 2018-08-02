@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RippleDemo</string>
+    <string name="info">Info</string>
 </resources>
